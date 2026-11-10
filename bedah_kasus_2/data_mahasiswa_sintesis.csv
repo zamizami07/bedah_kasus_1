@@ -1,0 +1,1001 @@
+Jurusan,Fakultas,Semester,IPK,Usia,Gender
+Kedokteran,Kedokteran,4,3.66,18,Perempuan
+Teknik Informatika,Ilmu Komputer,3,3.18,20,Laki-laki
+Teknik Sipil,Teknik,5,3.01,21,Laki-laki
+Psikologi,Psikologi,1,3.75,18,Perempuan
+Akuntansi,Ekonomi,1,2.94,17,Laki-laki
+Akuntansi,Ekonomi,8,3.7,22,Perempuan
+Kedokteran,Kedokteran,6,3.54,21,Perempuan
+Psikologi,Psikologi,3,3.59,20,Laki-laki
+Kedokteran,Kedokteran,2,3.32,17,Perempuan
+Kedokteran,Kedokteran,4,3.41,20,Perempuan
+Teknik Sipil,Teknik,7,3.11,22,Laki-laki
+Teknik Informatika,Ilmu Komputer,6,3.54,20,Laki-laki
+Akuntansi,Ekonomi,6,3.73,19,Laki-laki
+Kedokteran,Kedokteran,4,3.55,18,Perempuan
+Psikologi,Psikologi,8,3.81,20,Perempuan
+Akuntansi,Ekonomi,4,3.42,18,Laki-laki
+Kedokteran,Kedokteran,5,3.49,19,Laki-laki
+Teknik Sipil,Teknik,8,3.09,22,Perempuan
+Sistem Informasi,Ilmu Komputer,8,3.59,22,Perempuan
+Teknik Informatika,Ilmu Komputer,1,3.86,19,Perempuan
+Akuntansi,Ekonomi,2,3.51,17,Laki-laki
+Manajemen,Ekonomi,4,3.39,19,Perempuan
+Sistem Informasi,Ilmu Komputer,3,3.17,18,Laki-laki
+Manajemen,Ekonomi,1,3.72,19,Laki-laki
+Teknik Informatika,Ilmu Komputer,4,3.45,18,Laki-laki
+Psikologi,Psikologi,8,3.57,21,Laki-laki
+Kedokteran,Kedokteran,5,3.26,21,Laki-laki
+Manajemen,Ekonomi,3,3.71,19,Perempuan
+Teknik Informatika,Ilmu Komputer,5,3.72,20,Perempuan
+Akuntansi,Ekonomi,4,3.63,19,Perempuan
+Teknik Sipil,Teknik,2,3.08,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,3,3.65,19,Laki-laki
+Psikologi,Psikologi,1,3.6,19,Perempuan
+Psikologi,Psikologi,1,3.54,19,Laki-laki
+Teknik Sipil,Teknik,7,3.29,22,Laki-laki
+Sistem Informasi,Ilmu Komputer,6,2.84,19,Laki-laki
+Akuntansi,Ekonomi,6,3.07,21,Laki-laki
+Sistem Informasi,Ilmu Komputer,3,3.44,18,Perempuan
+Akuntansi,Ekonomi,6,3.67,21,Laki-laki
+Teknik Informatika,Ilmu Komputer,5,3.31,20,Perempuan
+Teknik Sipil,Teknik,7,2.89,22,Laki-laki
+Teknik Sipil,Teknik,5,3.51,20,Laki-laki
+Manajemen,Ekonomi,7,3.51,20,Perempuan
+Manajemen,Ekonomi,4,3.16,20,Laki-laki
+Teknik Informatika,Ilmu Komputer,3,3.63,20,Laki-laki
+Sistem Informasi,Ilmu Komputer,8,3.08,22,Perempuan
+Sistem Informasi,Ilmu Komputer,3,3.34,18,Perempuan
+Teknik Informatika,Ilmu Komputer,8,3.59,20,Laki-laki
+Sistem Informasi,Ilmu Komputer,2,3.53,17,Laki-laki
+Manajemen,Ekonomi,3,3.72,20,Perempuan
+Hukum,Hukum,8,3.06,20,Laki-laki
+Hukum,Hukum,8,3.38,21,Laki-laki
+Hukum,Hukum,1,3.25,19,Laki-laki
+Psikologi,Psikologi,1,3.08,17,Laki-laki
+Hukum,Hukum,5,2.96,21,Perempuan
+Manajemen,Ekonomi,3,3.81,19,Laki-laki
+Hukum,Hukum,6,3.3,20,Perempuan
+Manajemen,Ekonomi,2,3.62,17,Perempuan
+Akuntansi,Ekonomi,7,3.71,20,Laki-laki
+Manajemen,Ekonomi,8,3.26,20,Laki-laki
+Akuntansi,Ekonomi,4,3.52,19,Perempuan
+Manajemen,Ekonomi,4,3.71,18,Laki-laki
+Psikologi,Psikologi,5,3.57,21,Perempuan
+Teknik Informatika,Ilmu Komputer,7,2.79,21,Laki-laki
+Teknik Sipil,Teknik,6,3.22,20,Perempuan
+Sistem Informasi,Ilmu Komputer,8,3.11,20,Laki-laki
+Hukum,Hukum,8,3.62,22,Perempuan
+Sistem Informasi,Ilmu Komputer,8,3.27,20,Laki-laki
+Kedokteran,Kedokteran,1,3.33,17,Perempuan
+Kedokteran,Kedokteran,4,3.46,19,Laki-laki
+Kedokteran,Kedokteran,7,3.23,21,Perempuan
+Hukum,Hukum,2,3.14,18,Laki-laki
+Akuntansi,Ekonomi,2,3.64,18,Laki-laki
+Teknik Sipil,Teknik,5,2.45,19,Laki-laki
+Hukum,Hukum,5,4.0,20,Perempuan
+Psikologi,Psikologi,2,3.77,18,Perempuan
+Sistem Informasi,Ilmu Komputer,8,3.93,22,Laki-laki
+Teknik Informatika,Ilmu Komputer,5,3.25,20,Perempuan
+Sistem Informasi,Ilmu Komputer,4,2.99,18,Laki-laki
+Sistem Informasi,Ilmu Komputer,8,3.35,20,Laki-laki
+Teknik Sipil,Teknik,5,2.88,21,Laki-laki
+Manajemen,Ekonomi,4,4.0,19,Laki-laki
+Psikologi,Psikologi,6,3.42,19,Laki-laki
+Hukum,Hukum,6,3.21,20,Perempuan
+Akuntansi,Ekonomi,8,3.72,21,Laki-laki
+Hukum,Hukum,6,3.51,19,Laki-laki
+Teknik Informatika,Ilmu Komputer,6,3.29,19,Laki-laki
+Manajemen,Ekonomi,2,3.65,17,Perempuan
+Psikologi,Psikologi,4,3.92,20,Perempuan
+Manajemen,Ekonomi,4,3.65,18,Perempuan
+Manajemen,Ekonomi,3,3.82,18,Perempuan
+Manajemen,Ekonomi,4,3.63,18,Laki-laki
+Kedokteran,Kedokteran,6,3.53,20,Laki-laki
+Teknik Informatika,Ilmu Komputer,8,3.25,20,Perempuan
+Teknik Informatika,Ilmu Komputer,6,3.39,20,Laki-laki
+Teknik Informatika,Ilmu Komputer,5,2.8,21,Perempuan
+Akuntansi,Ekonomi,1,3.56,17,Perempuan
+Teknik Sipil,Teknik,8,3.4,22,Perempuan
+Teknik Sipil,Teknik,4,3.4,19,Perempuan
+Teknik Sipil,Teknik,5,2.59,19,Laki-laki
+Kedokteran,Kedokteran,1,3.89,19,Laki-laki
+Manajemen,Ekonomi,3,3.51,18,Laki-laki
+Psikologi,Psikologi,1,3.53,19,Perempuan
+Teknik Sipil,Teknik,4,2.95,20,Laki-laki
+Teknik Sipil,Teknik,5,2.8,19,Laki-laki
+Akuntansi,Ekonomi,5,3.25,21,Perempuan
+Kedokteran,Kedokteran,5,3.29,19,Perempuan
+Psikologi,Psikologi,3,3.6,20,Perempuan
+Manajemen,Ekonomi,2,3.62,19,Perempuan
+Psikologi,Psikologi,6,3.45,21,Perempuan
+Teknik Sipil,Teknik,2,3.42,17,Laki-laki
+Psikologi,Psikologi,6,3.84,21,Perempuan
+Psikologi,Psikologi,1,3.41,18,Perempuan
+Hukum,Hukum,7,3.23,22,Laki-laki
+Manajemen,Ekonomi,7,3.42,21,Perempuan
+Teknik Informatika,Ilmu Komputer,4,3.4,18,Perempuan
+Kedokteran,Kedokteran,1,3.65,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,1,3.48,17,Laki-laki
+Hukum,Hukum,2,3.32,17,Perempuan
+Psikologi,Psikologi,4,3.87,20,Perempuan
+Sistem Informasi,Ilmu Komputer,2,3.89,19,Laki-laki
+Psikologi,Psikologi,6,3.86,20,Perempuan
+Kedokteran,Kedokteran,1,3.47,19,Perempuan
+Teknik Sipil,Teknik,2,3.59,18,Laki-laki
+Akuntansi,Ekonomi,2,3.64,17,Laki-laki
+Akuntansi,Ekonomi,5,4.0,19,Laki-laki
+Manajemen,Ekonomi,5,3.13,20,Perempuan
+Teknik Informatika,Ilmu Komputer,3,4.0,18,Laki-laki
+Teknik Sipil,Teknik,1,3.32,18,Laki-laki
+Hukum,Hukum,3,2.92,20,Perempuan
+Sistem Informasi,Ilmu Komputer,2,2.97,17,Laki-laki
+Hukum,Hukum,4,3.09,18,Perempuan
+Psikologi,Psikologi,6,4.0,21,Perempuan
+Teknik Informatika,Ilmu Komputer,3,3.51,18,Laki-laki
+Sistem Informasi,Ilmu Komputer,6,3.49,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,8,3.6,21,Laki-laki
+Teknik Sipil,Teknik,7,2.0,21,Perempuan
+Teknik Informatika,Ilmu Komputer,4,3.31,18,Laki-laki
+Psikologi,Psikologi,6,3.71,20,Perempuan
+Kedokteran,Kedokteran,7,3.9,20,Perempuan
+Teknik Informatika,Ilmu Komputer,3,3.48,20,Perempuan
+Teknik Informatika,Ilmu Komputer,2,3.68,18,Laki-laki
+Manajemen,Ekonomi,3,3.6,20,Perempuan
+Kedokteran,Kedokteran,4,4.0,19,Perempuan
+Manajemen,Ekonomi,1,3.45,17,Perempuan
+Sistem Informasi,Ilmu Komputer,4,3.88,18,Perempuan
+Psikologi,Psikologi,2,3.7,17,Perempuan
+Kedokteran,Kedokteran,1,3.09,19,Laki-laki
+Kedokteran,Kedokteran,3,3.23,19,Perempuan
+Sistem Informasi,Ilmu Komputer,3,3.62,20,Laki-laki
+Teknik Sipil,Teknik,2,2.99,17,Laki-laki
+Psikologi,Psikologi,6,3.39,19,Perempuan
+Akuntansi,Ekonomi,2,3.56,18,Perempuan
+Sistem Informasi,Ilmu Komputer,2,2.77,17,Laki-laki
+Hukum,Hukum,7,3.17,21,Laki-laki
+Akuntansi,Ekonomi,1,3.29,17,Perempuan
+Akuntansi,Ekonomi,7,3.48,22,Perempuan
+Kedokteran,Kedokteran,6,2.81,20,Perempuan
+Hukum,Hukum,3,3.5,20,Perempuan
+Kedokteran,Kedokteran,4,3.59,18,Perempuan
+Hukum,Hukum,3,3.02,20,Laki-laki
+Teknik Informatika,Ilmu Komputer,7,3.08,20,Perempuan
+Hukum,Hukum,2,3.89,18,Perempuan
+Psikologi,Psikologi,2,3.84,19,Perempuan
+Hukum,Hukum,2,3.15,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,5,3.92,20,Perempuan
+Teknik Sipil,Teknik,2,2.64,19,Laki-laki
+Hukum,Hukum,6,3.5,21,Laki-laki
+Hukum,Hukum,3,3.01,19,Perempuan
+Kedokteran,Kedokteran,3,3.34,20,Laki-laki
+Psikologi,Psikologi,4,3.65,20,Perempuan
+Kedokteran,Kedokteran,6,3.77,20,Laki-laki
+Teknik Sipil,Teknik,6,3.43,21,Laki-laki
+Teknik Informatika,Ilmu Komputer,3,3.69,18,Perempuan
+Hukum,Hukum,2,2.98,18,Perempuan
+Akuntansi,Ekonomi,7,3.71,20,Perempuan
+Teknik Sipil,Teknik,6,3.51,19,Laki-laki
+Manajemen,Ekonomi,1,3.5,18,Laki-laki
+Teknik Informatika,Ilmu Komputer,5,2.91,21,Laki-laki
+Akuntansi,Ekonomi,1,3.61,19,Perempuan
+Sistem Informasi,Ilmu Komputer,1,4.0,19,Perempuan
+Kedokteran,Kedokteran,1,3.32,17,Perempuan
+Akuntansi,Ekonomi,2,3.42,18,Perempuan
+Teknik Sipil,Teknik,6,2.7,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,5,3.6,20,Laki-laki
+Manajemen,Ekonomi,3,3.63,19,Perempuan
+Akuntansi,Ekonomi,1,3.98,17,Perempuan
+Teknik Sipil,Teknik,6,3.53,21,Laki-laki
+Sistem Informasi,Ilmu Komputer,7,2.98,22,Perempuan
+Kedokteran,Kedokteran,2,3.5,18,Laki-laki
+Teknik Sipil,Teknik,3,2.61,20,Laki-laki
+Kedokteran,Kedokteran,7,3.84,20,Perempuan
+Hukum,Hukum,7,3.13,22,Laki-laki
+Psikologi,Psikologi,3,3.71,20,Laki-laki
+Akuntansi,Ekonomi,6,3.67,20,Laki-laki
+Hukum,Hukum,5,3.42,21,Laki-laki
+Psikologi,Psikologi,8,3.48,22,Laki-laki
+Akuntansi,Ekonomi,5,3.64,20,Laki-laki
+Manajemen,Ekonomi,3,3.28,19,Laki-laki
+Teknik Informatika,Ilmu Komputer,8,2.96,21,Laki-laki
+Kedokteran,Kedokteran,7,3.55,21,Perempuan
+Kedokteran,Kedokteran,8,4.0,22,Perempuan
+Akuntansi,Ekonomi,8,3.6,20,Laki-laki
+Akuntansi,Ekonomi,7,3.66,21,Laki-laki
+Manajemen,Ekonomi,5,3.22,20,Perempuan
+Hukum,Hukum,4,3.26,19,Perempuan
+Sistem Informasi,Ilmu Komputer,7,4.0,21,Laki-laki
+Sistem Informasi,Ilmu Komputer,5,3.61,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,5,3.15,20,Laki-laki
+Manajemen,Ekonomi,6,3.04,20,Perempuan
+Manajemen,Ekonomi,2,3.08,19,Perempuan
+Manajemen,Ekonomi,6,3.43,19,Perempuan
+Hukum,Hukum,5,3.68,19,Perempuan
+Akuntansi,Ekonomi,2,3.09,17,Perempuan
+Sistem Informasi,Ilmu Komputer,4,3.37,18,Laki-laki
+Psikologi,Psikologi,8,3.3,20,Laki-laki
+Teknik Sipil,Teknik,5,2.89,20,Perempuan
+Teknik Sipil,Teknik,6,3.47,19,Laki-laki
+Psikologi,Psikologi,6,3.97,21,Perempuan
+Teknik Informatika,Ilmu Komputer,6,2.47,20,Perempuan
+Akuntansi,Ekonomi,1,3.58,17,Laki-laki
+Manajemen,Ekonomi,6,3.45,20,Laki-laki
+Kedokteran,Kedokteran,7,3.42,21,Perempuan
+Manajemen,Ekonomi,8,3.79,22,Perempuan
+Psikologi,Psikologi,8,3.82,21,Perempuan
+Akuntansi,Ekonomi,7,3.08,21,Perempuan
+Teknik Sipil,Teknik,6,3.06,20,Laki-laki
+Psikologi,Psikologi,6,3.91,21,Perempuan
+Teknik Informatika,Ilmu Komputer,7,2.82,21,Perempuan
+Kedokteran,Kedokteran,5,4.0,21,Laki-laki
+Teknik Informatika,Ilmu Komputer,3,3.81,20,Laki-laki
+Psikologi,Psikologi,4,3.42,20,Perempuan
+Hukum,Hukum,4,3.29,18,Perempuan
+Teknik Sipil,Teknik,8,3.64,20,Laki-laki
+Sistem Informasi,Ilmu Komputer,6,4.0,19,Laki-laki
+Hukum,Hukum,6,3.54,21,Laki-laki
+Teknik Informatika,Ilmu Komputer,2,3.21,17,Laki-laki
+Teknik Informatika,Ilmu Komputer,8,3.13,20,Perempuan
+Sistem Informasi,Ilmu Komputer,6,4.0,20,Perempuan
+Kedokteran,Kedokteran,5,3.72,20,Laki-laki
+Manajemen,Ekonomi,1,3.57,19,Perempuan
+Sistem Informasi,Ilmu Komputer,5,3.74,21,Perempuan
+Sistem Informasi,Ilmu Komputer,2,3.57,17,Laki-laki
+Akuntansi,Ekonomi,6,2.96,21,Laki-laki
+Psikologi,Psikologi,4,3.43,20,Laki-laki
+Teknik Sipil,Teknik,4,2.64,18,Laki-laki
+Teknik Sipil,Teknik,3,4.0,19,Perempuan
+Psikologi,Psikologi,8,3.52,20,Laki-laki
+Kedokteran,Kedokteran,4,3.33,20,Perempuan
+Psikologi,Psikologi,3,3.63,19,Perempuan
+Teknik Informatika,Ilmu Komputer,5,3.46,19,Laki-laki
+Manajemen,Ekonomi,8,3.41,21,Perempuan
+Manajemen,Ekonomi,3,3.68,19,Laki-laki
+Teknik Informatika,Ilmu Komputer,4,3.74,20,Laki-laki
+Manajemen,Ekonomi,3,3.13,18,Perempuan
+Teknik Sipil,Teknik,3,3.11,20,Perempuan
+Kedokteran,Kedokteran,5,3.51,20,Perempuan
+Akuntansi,Ekonomi,7,3.55,22,Perempuan
+Psikologi,Psikologi,2,3.63,19,Perempuan
+Teknik Informatika,Ilmu Komputer,5,3.21,20,Perempuan
+Hukum,Hukum,7,3.01,20,Laki-laki
+Manajemen,Ekonomi,7,3.67,20,Perempuan
+Hukum,Hukum,4,3.77,20,Perempuan
+Hukum,Hukum,7,2.35,22,Perempuan
+Psikologi,Psikologi,2,3.32,19,Perempuan
+Akuntansi,Ekonomi,7,3.87,22,Perempuan
+Akuntansi,Ekonomi,5,3.81,20,Perempuan
+Teknik Informatika,Ilmu Komputer,4,2.88,19,Laki-laki
+Manajemen,Ekonomi,2,3.7,18,Perempuan
+Kedokteran,Kedokteran,6,3.51,19,Perempuan
+Psikologi,Psikologi,6,4.0,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,2,3.25,18,Laki-laki
+Kedokteran,Kedokteran,4,2.94,18,Perempuan
+Teknik Informatika,Ilmu Komputer,6,3.3,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,5,3.16,20,Perempuan
+Psikologi,Psikologi,5,3.53,19,Laki-laki
+Hukum,Hukum,7,3.28,22,Perempuan
+Sistem Informasi,Ilmu Komputer,7,3.65,22,Laki-laki
+Psikologi,Psikologi,7,3.68,21,Laki-laki
+Teknik Informatika,Ilmu Komputer,1,4.0,18,Laki-laki
+Teknik Informatika,Ilmu Komputer,3,3.58,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,3,3.81,19,Laki-laki
+Manajemen,Ekonomi,2,3.72,19,Laki-laki
+Teknik Sipil,Teknik,3,3.62,19,Laki-laki
+Psikologi,Psikologi,7,4.0,20,Laki-laki
+Sistem Informasi,Ilmu Komputer,8,3.99,22,Laki-laki
+Psikologi,Psikologi,1,3.75,19,Perempuan
+Manajemen,Ekonomi,2,3.8,19,Laki-laki
+Manajemen,Ekonomi,5,3.65,20,Laki-laki
+Akuntansi,Ekonomi,5,3.56,19,Perempuan
+Teknik Sipil,Teknik,5,3.68,20,Laki-laki
+Teknik Informatika,Ilmu Komputer,8,3.52,22,Perempuan
+Sistem Informasi,Ilmu Komputer,6,3.34,21,Laki-laki
+Teknik Sipil,Teknik,1,3.42,17,Perempuan
+Sistem Informasi,Ilmu Komputer,5,3.55,20,Laki-laki
+Psikologi,Psikologi,3,3.43,18,Perempuan
+Manajemen,Ekonomi,7,3.56,22,Laki-laki
+Teknik Informatika,Ilmu Komputer,6,3.35,19,Laki-laki
+Kedokteran,Kedokteran,2,3.56,17,Perempuan
+Kedokteran,Kedokteran,2,3.51,17,Perempuan
+Hukum,Hukum,3,3.28,19,Perempuan
+Akuntansi,Ekonomi,4,3.47,20,Perempuan
+Psikologi,Psikologi,6,3.8,20,Perempuan
+Hukum,Hukum,2,3.64,19,Perempuan
+Hukum,Hukum,8,3.43,22,Laki-laki
+Manajemen,Ekonomi,1,3.35,18,Laki-laki
+Teknik Sipil,Teknik,3,2.98,20,Laki-laki
+Psikologi,Psikologi,4,4.0,18,Laki-laki
+Sistem Informasi,Ilmu Komputer,7,3.64,22,Laki-laki
+Teknik Informatika,Ilmu Komputer,7,3.75,21,Laki-laki
+Manajemen,Ekonomi,3,3.68,20,Laki-laki
+Manajemen,Ekonomi,4,3.47,19,Perempuan
+Psikologi,Psikologi,3,3.84,20,Laki-laki
+Psikologi,Psikologi,3,3.54,18,Perempuan
+Akuntansi,Ekonomi,2,4.0,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,1,2.95,17,Perempuan
+Kedokteran,Kedokteran,3,3.39,19,Perempuan
+Akuntansi,Ekonomi,5,3.56,20,Perempuan
+Hukum,Hukum,7,2.8,20,Perempuan
+Teknik Sipil,Teknik,1,3.44,19,Laki-laki
+Psikologi,Psikologi,5,3.43,20,Perempuan
+Teknik Sipil,Teknik,5,3.6,20,Laki-laki
+Teknik Informatika,Ilmu Komputer,6,2.85,21,Laki-laki
+Sistem Informasi,Ilmu Komputer,4,3.68,19,Perempuan
+Manajemen,Ekonomi,6,3.43,21,Perempuan
+Teknik Sipil,Teknik,7,3.04,21,Laki-laki
+Akuntansi,Ekonomi,1,3.57,18,Perempuan
+Hukum,Hukum,1,3.03,17,Laki-laki
+Hukum,Hukum,7,3.62,21,Laki-laki
+Akuntansi,Ekonomi,1,3.69,19,Laki-laki
+Manajemen,Ekonomi,6,4.0,19,Perempuan
+Teknik Informatika,Ilmu Komputer,4,3.53,19,Perempuan
+Kedokteran,Kedokteran,3,3.9,20,Perempuan
+Manajemen,Ekonomi,7,3.56,20,Laki-laki
+Hukum,Hukum,3,2.94,19,Perempuan
+Kedokteran,Kedokteran,8,3.34,22,Laki-laki
+Hukum,Hukum,2,3.31,19,Laki-laki
+Manajemen,Ekonomi,5,3.53,19,Laki-laki
+Kedokteran,Kedokteran,1,3.83,19,Perempuan
+Psikologi,Psikologi,8,3.57,20,Perempuan
+Akuntansi,Ekonomi,6,3.61,20,Perempuan
+Psikologi,Psikologi,2,3.88,18,Perempuan
+Akuntansi,Ekonomi,6,3.71,21,Perempuan
+Akuntansi,Ekonomi,3,3.16,18,Perempuan
+Psikologi,Psikologi,7,3.71,20,Perempuan
+Kedokteran,Kedokteran,2,3.29,18,Perempuan
+Kedokteran,Kedokteran,5,3.47,19,Laki-laki
+Psikologi,Psikologi,7,3.4,21,Perempuan
+Sistem Informasi,Ilmu Komputer,4,3.53,19,Laki-laki
+Akuntansi,Ekonomi,2,3.37,19,Perempuan
+Kedokteran,Kedokteran,1,3.27,17,Perempuan
+Hukum,Hukum,6,3.03,20,Laki-laki
+Akuntansi,Ekonomi,6,3.16,19,Perempuan
+Sistem Informasi,Ilmu Komputer,1,3.32,18,Laki-laki
+Sistem Informasi,Ilmu Komputer,3,3.6,18,Perempuan
+Teknik Sipil,Teknik,4,2.34,20,Perempuan
+Akuntansi,Ekonomi,3,3.47,18,Laki-laki
+Sistem Informasi,Ilmu Komputer,7,3.31,22,Laki-laki
+Psikologi,Psikologi,3,3.65,18,Perempuan
+Akuntansi,Ekonomi,5,3.33,20,Perempuan
+Manajemen,Ekonomi,6,3.07,20,Perempuan
+Kedokteran,Kedokteran,4,3.65,19,Laki-laki
+Teknik Sipil,Teknik,6,2.91,19,Laki-laki
+Kedokteran,Kedokteran,8,3.65,20,Laki-laki
+Psikologi,Psikologi,7,3.82,21,Perempuan
+Manajemen,Ekonomi,2,3.16,18,Perempuan
+Sistem Informasi,Ilmu Komputer,2,3.32,19,Perempuan
+Hukum,Hukum,4,3.32,18,Perempuan
+Kedokteran,Kedokteran,8,3.99,21,Laki-laki
+Akuntansi,Ekonomi,2,3.26,18,Perempuan
+Kedokteran,Kedokteran,1,3.8,17,Perempuan
+Psikologi,Psikologi,7,3.53,20,Laki-laki
+Teknik Informatika,Ilmu Komputer,5,3.82,20,Perempuan
+Teknik Informatika,Ilmu Komputer,5,2.97,19,Laki-laki
+Psikologi,Psikologi,3,3.63,18,Laki-laki
+Kedokteran,Kedokteran,1,3.19,18,Laki-laki
+Psikologi,Psikologi,3,3.18,18,Perempuan
+Akuntansi,Ekonomi,6,3.47,20,Perempuan
+Teknik Sipil,Teknik,6,2.92,20,Laki-laki
+Teknik Informatika,Ilmu Komputer,8,4.0,21,Laki-laki
+Psikologi,Psikologi,5,3.16,20,Perempuan
+Manajemen,Ekonomi,8,3.55,22,Perempuan
+Teknik Informatika,Ilmu Komputer,4,3.86,20,Laki-laki
+Teknik Sipil,Teknik,7,3.23,20,Perempuan
+Sistem Informasi,Ilmu Komputer,4,3.08,20,Laki-laki
+Manajemen,Ekonomi,2,3.37,18,Perempuan
+Teknik Sipil,Teknik,5,3.59,20,Laki-laki
+Teknik Sipil,Teknik,2,2.95,18,Laki-laki
+Sistem Informasi,Ilmu Komputer,5,3.41,20,Perempuan
+Teknik Informatika,Ilmu Komputer,7,3.34,20,Laki-laki
+Kedokteran,Kedokteran,8,3.02,20,Perempuan
+Akuntansi,Ekonomi,6,3.66,21,Perempuan
+Akuntansi,Ekonomi,8,3.67,20,Perempuan
+Hukum,Hukum,5,3.35,20,Perempuan
+Teknik Informatika,Ilmu Komputer,1,2.91,19,Perempuan
+Teknik Sipil,Teknik,8,3.9,20,Laki-laki
+Psikologi,Psikologi,4,3.79,19,Perempuan
+Sistem Informasi,Ilmu Komputer,2,3.59,19,Perempuan
+Sistem Informasi,Ilmu Komputer,7,3.32,21,Perempuan
+Sistem Informasi,Ilmu Komputer,7,3.27,20,Laki-laki
+Teknik Sipil,Teknik,5,2.92,21,Laki-laki
+Sistem Informasi,Ilmu Komputer,6,3.26,19,Perempuan
+Hukum,Hukum,1,3.53,18,Perempuan
+Teknik Informatika,Ilmu Komputer,6,2.86,19,Perempuan
+Sistem Informasi,Ilmu Komputer,3,3.76,20,Perempuan
+Hukum,Hukum,2,3.12,19,Perempuan
+Akuntansi,Ekonomi,8,3.27,20,Laki-laki
+Akuntansi,Ekonomi,5,3.37,19,Perempuan
+Akuntansi,Ekonomi,5,3.21,21,Perempuan
+Manajemen,Ekonomi,6,3.73,19,Perempuan
+Hukum,Hukum,6,3.89,20,Laki-laki
+Teknik Sipil,Teknik,6,3.37,20,Perempuan
+Psikologi,Psikologi,5,3.42,21,Perempuan
+Hukum,Hukum,1,3.48,19,Perempuan
+Sistem Informasi,Ilmu Komputer,8,3.12,22,Perempuan
+Teknik Sipil,Teknik,8,3.07,20,Perempuan
+Psikologi,Psikologi,4,3.82,19,Perempuan
+Psikologi,Psikologi,8,3.41,21,Laki-laki
+Psikologi,Psikologi,6,3.42,19,Perempuan
+Teknik Informatika,Ilmu Komputer,3,2.99,18,Laki-laki
+Manajemen,Ekonomi,3,4.0,19,Perempuan
+Manajemen,Ekonomi,6,3.18,21,Perempuan
+Akuntansi,Ekonomi,5,2.92,20,Perempuan
+Psikologi,Psikologi,3,3.61,19,Perempuan
+Hukum,Hukum,6,3.17,20,Perempuan
+Kedokteran,Kedokteran,5,3.36,21,Laki-laki
+Teknik Informatika,Ilmu Komputer,3,3.43,19,Perempuan
+Teknik Informatika,Ilmu Komputer,1,3.59,17,Perempuan
+Akuntansi,Ekonomi,7,3.42,21,Perempuan
+Hukum,Hukum,1,3.63,17,Laki-laki
+Teknik Sipil,Teknik,5,2.57,20,Laki-laki
+Akuntansi,Ekonomi,8,3.56,20,Perempuan
+Akuntansi,Ekonomi,2,3.62,17,Laki-laki
+Hukum,Hukum,2,3.02,19,Laki-laki
+Manajemen,Ekonomi,5,3.34,21,Perempuan
+Teknik Informatika,Ilmu Komputer,5,3.19,21,Laki-laki
+Sistem Informasi,Ilmu Komputer,7,3.24,22,Laki-laki
+Teknik Sipil,Teknik,4,3.54,18,Laki-laki
+Kedokteran,Kedokteran,8,3.28,20,Laki-laki
+Akuntansi,Ekonomi,4,3.37,19,Perempuan
+Kedokteran,Kedokteran,5,3.09,21,Laki-laki
+Akuntansi,Ekonomi,6,3.49,20,Laki-laki
+Psikologi,Psikologi,6,3.59,19,Perempuan
+Hukum,Hukum,6,3.24,21,Perempuan
+Kedokteran,Kedokteran,2,3.04,19,Perempuan
+Psikologi,Psikologi,5,3.88,19,Perempuan
+Psikologi,Psikologi,8,3.63,20,Perempuan
+Akuntansi,Ekonomi,8,3.31,22,Laki-laki
+Hukum,Hukum,4,3.71,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,5,3.19,19,Laki-laki
+Psikologi,Psikologi,2,3.73,17,Perempuan
+Teknik Sipil,Teknik,5,3.27,19,Perempuan
+Teknik Informatika,Ilmu Komputer,8,3.39,20,Laki-laki
+Hukum,Hukum,8,3.76,20,Perempuan
+Akuntansi,Ekonomi,7,3.66,20,Perempuan
+Psikologi,Psikologi,8,3.42,20,Laki-laki
+Kedokteran,Kedokteran,3,3.26,18,Laki-laki
+Manajemen,Ekonomi,4,3.86,20,Perempuan
+Manajemen,Ekonomi,4,3.83,20,Laki-laki
+Hukum,Hukum,7,3.55,20,Laki-laki
+Teknik Sipil,Teknik,8,3.12,20,Perempuan
+Kedokteran,Kedokteran,6,3.46,21,Perempuan
+Psikologi,Psikologi,4,3.62,20,Perempuan
+Kedokteran,Kedokteran,8,3.58,21,Laki-laki
+Kedokteran,Kedokteran,1,3.32,18,Laki-laki
+Akuntansi,Ekonomi,2,3.23,17,Laki-laki
+Akuntansi,Ekonomi,6,3.54,19,Laki-laki
+Psikologi,Psikologi,3,4.0,19,Perempuan
+Kedokteran,Kedokteran,7,3.59,20,Perempuan
+Hukum,Hukum,5,2.72,20,Perempuan
+Teknik Sipil,Teknik,6,3.65,21,Laki-laki
+Akuntansi,Ekonomi,5,3.35,19,Laki-laki
+Psikologi,Psikologi,5,3.28,21,Perempuan
+Hukum,Hukum,3,3.29,18,Perempuan
+Teknik Sipil,Teknik,3,3.27,20,Perempuan
+Psikologi,Psikologi,7,3.37,21,Perempuan
+Teknik Sipil,Teknik,1,3.06,17,Laki-laki
+Teknik Sipil,Teknik,2,3.44,18,Laki-laki
+Teknik Informatika,Ilmu Komputer,5,2.98,20,Laki-laki
+Psikologi,Psikologi,1,3.72,18,Perempuan
+Teknik Informatika,Ilmu Komputer,6,3.67,19,Perempuan
+Kedokteran,Kedokteran,7,3.84,21,Perempuan
+Psikologi,Psikologi,2,4.0,19,Perempuan
+Manajemen,Ekonomi,2,3.39,17,Perempuan
+Hukum,Hukum,8,3.71,22,Laki-laki
+Kedokteran,Kedokteran,7,3.33,20,Perempuan
+Teknik Sipil,Teknik,5,3.94,20,Laki-laki
+Teknik Informatika,Ilmu Komputer,6,4.0,20,Laki-laki
+Akuntansi,Ekonomi,4,3.35,20,Laki-laki
+Psikologi,Psikologi,4,3.6,19,Perempuan
+Psikologi,Psikologi,7,3.29,22,Perempuan
+Kedokteran,Kedokteran,1,3.44,18,Laki-laki
+Sistem Informasi,Ilmu Komputer,3,3.68,20,Laki-laki
+Sistem Informasi,Ilmu Komputer,1,3.71,18,Perempuan
+Teknik Sipil,Teknik,7,3.54,22,Perempuan
+Psikologi,Psikologi,1,3.84,17,Perempuan
+Manajemen,Ekonomi,5,3.54,21,Laki-laki
+Psikologi,Psikologi,3,3.12,19,Perempuan
+Teknik Informatika,Ilmu Komputer,3,3.27,18,Perempuan
+Teknik Informatika,Ilmu Komputer,8,3.54,20,Perempuan
+Teknik Informatika,Ilmu Komputer,4,3.39,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,4,3.98,19,Laki-laki
+Hukum,Hukum,4,3.57,18,Perempuan
+Hukum,Hukum,8,3.73,21,Laki-laki
+Akuntansi,Ekonomi,7,3.77,22,Perempuan
+Teknik Sipil,Teknik,6,2.92,21,Laki-laki
+Psikologi,Psikologi,6,3.46,19,Laki-laki
+Teknik Informatika,Ilmu Komputer,3,3.4,18,Laki-laki
+Teknik Informatika,Ilmu Komputer,1,3.66,19,Laki-laki
+Teknik Sipil,Teknik,3,3.09,20,Perempuan
+Psikologi,Psikologi,2,3.18,18,Perempuan
+Teknik Informatika,Ilmu Komputer,5,3.21,20,Laki-laki
+Kedokteran,Kedokteran,2,3.1,17,Perempuan
+Teknik Sipil,Teknik,4,4.0,18,Laki-laki
+Sistem Informasi,Ilmu Komputer,2,3.23,17,Perempuan
+Kedokteran,Kedokteran,1,3.26,17,Perempuan
+Psikologi,Psikologi,2,3.99,18,Perempuan
+Teknik Informatika,Ilmu Komputer,6,3.47,20,Laki-laki
+Sistem Informasi,Ilmu Komputer,2,3.57,17,Laki-laki
+Teknik Informatika,Ilmu Komputer,2,3.09,19,Laki-laki
+Hukum,Hukum,4,3.79,20,Laki-laki
+Teknik Sipil,Teknik,3,3.22,20,Laki-laki
+Teknik Sipil,Teknik,7,3.01,20,Perempuan
+Hukum,Hukum,7,2.97,20,Perempuan
+Akuntansi,Ekonomi,4,3.48,19,Perempuan
+Teknik Informatika,Ilmu Komputer,1,2.85,19,Laki-laki
+Teknik Sipil,Teknik,6,3.23,21,Laki-laki
+Hukum,Hukum,7,3.61,22,Perempuan
+Teknik Informatika,Ilmu Komputer,3,2.92,20,Laki-laki
+Teknik Sipil,Teknik,8,3.09,20,Laki-laki
+Psikologi,Psikologi,8,3.29,22,Perempuan
+Teknik Informatika,Ilmu Komputer,2,3.59,18,Perempuan
+Kedokteran,Kedokteran,8,3.74,22,Laki-laki
+Hukum,Hukum,1,3.2,17,Laki-laki
+Teknik Sipil,Teknik,5,3.6,21,Perempuan
+Manajemen,Ekonomi,8,3.32,20,Perempuan
+Hukum,Hukum,7,3.39,20,Perempuan
+Psikologi,Psikologi,2,3.59,18,Perempuan
+Manajemen,Ekonomi,7,3.33,22,Laki-laki
+Akuntansi,Ekonomi,2,3.62,18,Laki-laki
+Psikologi,Psikologi,3,3.26,18,Perempuan
+Hukum,Hukum,3,2.95,18,Laki-laki
+Kedokteran,Kedokteran,4,3.47,18,Perempuan
+Akuntansi,Ekonomi,6,2.99,20,Laki-laki
+Akuntansi,Ekonomi,8,3.49,21,Laki-laki
+Sistem Informasi,Ilmu Komputer,3,3.34,20,Laki-laki
+Manajemen,Ekonomi,1,3.07,19,Perempuan
+Manajemen,Ekonomi,6,3.85,21,Laki-laki
+Sistem Informasi,Ilmu Komputer,4,3.1,18,Perempuan
+Akuntansi,Ekonomi,7,3.85,22,Laki-laki
+Akuntansi,Ekonomi,4,3.42,18,Perempuan
+Akuntansi,Ekonomi,2,3.74,17,Laki-laki
+Kedokteran,Kedokteran,7,3.65,20,Perempuan
+Kedokteran,Kedokteran,1,3.55,19,Laki-laki
+Kedokteran,Kedokteran,2,3.58,19,Perempuan
+Manajemen,Ekonomi,2,3.68,18,Perempuan
+Akuntansi,Ekonomi,5,3.61,20,Laki-laki
+Akuntansi,Ekonomi,1,3.53,17,Perempuan
+Hukum,Hukum,2,3.55,18,Laki-laki
+Manajemen,Ekonomi,3,3.38,19,Perempuan
+Akuntansi,Ekonomi,4,3.77,18,Laki-laki
+Kedokteran,Kedokteran,4,3.34,19,Laki-laki
+Psikologi,Psikologi,5,3.09,19,Perempuan
+Manajemen,Ekonomi,1,3.42,19,Perempuan
+Sistem Informasi,Ilmu Komputer,4,3.74,20,Perempuan
+Kedokteran,Kedokteran,7,4.0,22,Perempuan
+Hukum,Hukum,1,2.73,18,Perempuan
+Psikologi,Psikologi,7,3.47,20,Laki-laki
+Akuntansi,Ekonomi,5,3.98,21,Perempuan
+Sistem Informasi,Ilmu Komputer,4,3.42,20,Perempuan
+Teknik Sipil,Teknik,8,2.75,20,Laki-laki
+Akuntansi,Ekonomi,5,3.52,20,Perempuan
+Manajemen,Ekonomi,6,3.22,19,Perempuan
+Akuntansi,Ekonomi,4,3.75,19,Perempuan
+Manajemen,Ekonomi,6,3.44,20,Perempuan
+Teknik Sipil,Teknik,7,2.5,21,Laki-laki
+Sistem Informasi,Ilmu Komputer,2,3.48,17,Perempuan
+Manajemen,Ekonomi,4,3.37,19,Perempuan
+Psikologi,Psikologi,5,3.45,19,Perempuan
+Akuntansi,Ekonomi,8,4.0,20,Perempuan
+Hukum,Hukum,1,3.13,18,Laki-laki
+Psikologi,Psikologi,1,3.81,18,Perempuan
+Hukum,Hukum,6,3.03,19,Perempuan
+Teknik Sipil,Teknik,5,3.12,21,Perempuan
+Kedokteran,Kedokteran,1,4.0,19,Perempuan
+Psikologi,Psikologi,7,3.58,21,Laki-laki
+Teknik Sipil,Teknik,4,3.53,20,Laki-laki
+Akuntansi,Ekonomi,5,3.5,19,Perempuan
+Kedokteran,Kedokteran,4,3.71,19,Laki-laki
+Hukum,Hukum,5,3.45,21,Laki-laki
+Kedokteran,Kedokteran,4,3.75,19,Perempuan
+Akuntansi,Ekonomi,2,3.25,17,Laki-laki
+Akuntansi,Ekonomi,8,3.68,20,Perempuan
+Sistem Informasi,Ilmu Komputer,2,3.4,18,Perempuan
+Psikologi,Psikologi,2,3.79,18,Perempuan
+Akuntansi,Ekonomi,3,3.61,19,Laki-laki
+Teknik Informatika,Ilmu Komputer,5,3.6,20,Laki-laki
+Manajemen,Ekonomi,1,3.76,19,Perempuan
+Teknik Informatika,Ilmu Komputer,5,3.2,19,Laki-laki
+Teknik Sipil,Teknik,1,3.45,18,Perempuan
+Hukum,Hukum,3,3.04,19,Perempuan
+Hukum,Hukum,2,3.24,18,Laki-laki
+Teknik Informatika,Ilmu Komputer,8,4.0,22,Perempuan
+Kedokteran,Kedokteran,8,3.09,22,Perempuan
+Teknik Informatika,Ilmu Komputer,3,3.37,18,Laki-laki
+Teknik Informatika,Ilmu Komputer,8,3.28,20,Laki-laki
+Psikologi,Psikologi,8,3.34,20,Laki-laki
+Akuntansi,Ekonomi,2,3.44,19,Laki-laki
+Kedokteran,Kedokteran,3,3.24,19,Perempuan
+Teknik Sipil,Teknik,2,3.28,18,Laki-laki
+Akuntansi,Ekonomi,1,3.56,17,Laki-laki
+Teknik Informatika,Ilmu Komputer,3,3.55,19,Laki-laki
+Teknik Sipil,Teknik,3,2.56,19,Laki-laki
+Psikologi,Psikologi,6,3.36,20,Perempuan
+Psikologi,Psikologi,5,3.47,20,Perempuan
+Teknik Informatika,Ilmu Komputer,4,2.6,18,Perempuan
+Psikologi,Psikologi,3,3.6,20,Perempuan
+Psikologi,Psikologi,6,3.71,19,Perempuan
+Manajemen,Ekonomi,3,3.65,19,Laki-laki
+Psikologi,Psikologi,6,3.83,21,Laki-laki
+Akuntansi,Ekonomi,3,3.24,20,Perempuan
+Psikologi,Psikologi,3,3.64,18,Perempuan
+Manajemen,Ekonomi,4,3.7,20,Laki-laki
+Hukum,Hukum,1,3.6,18,Laki-laki
+Kedokteran,Kedokteran,5,4.0,19,Laki-laki
+Teknik Sipil,Teknik,3,2.6,18,Laki-laki
+Hukum,Hukum,5,3.17,21,Perempuan
+Akuntansi,Ekonomi,1,3.62,18,Laki-laki
+Hukum,Hukum,1,3.43,19,Laki-laki
+Teknik Sipil,Teknik,6,3.19,21,Laki-laki
+Akuntansi,Ekonomi,6,3.71,21,Laki-laki
+Manajemen,Ekonomi,8,3.3,20,Laki-laki
+Sistem Informasi,Ilmu Komputer,3,3.43,18,Perempuan
+Kedokteran,Kedokteran,7,3.59,22,Perempuan
+Teknik Sipil,Teknik,7,2.65,20,Laki-laki
+Kedokteran,Kedokteran,6,3.79,21,Laki-laki
+Psikologi,Psikologi,7,3.8,21,Perempuan
+Hukum,Hukum,5,3.0,20,Perempuan
+Hukum,Hukum,2,3.8,18,Perempuan
+Sistem Informasi,Ilmu Komputer,8,3.84,22,Laki-laki
+Sistem Informasi,Ilmu Komputer,6,3.81,21,Laki-laki
+Psikologi,Psikologi,8,3.21,20,Perempuan
+Sistem Informasi,Ilmu Komputer,7,3.56,20,Laki-laki
+Sistem Informasi,Ilmu Komputer,2,3.77,18,Laki-laki
+Akuntansi,Ekonomi,6,3.5,21,Laki-laki
+Akuntansi,Ekonomi,5,3.41,19,Perempuan
+Psikologi,Psikologi,5,3.09,21,Laki-laki
+Kedokteran,Kedokteran,2,3.56,18,Laki-laki
+Hukum,Hukum,4,3.24,19,Laki-laki
+Akuntansi,Ekonomi,2,3.37,19,Perempuan
+Kedokteran,Kedokteran,6,3.85,20,Perempuan
+Hukum,Hukum,5,3.4,19,Perempuan
+Psikologi,Psikologi,3,3.41,18,Perempuan
+Teknik Sipil,Teknik,6,3.43,20,Laki-laki
+Teknik Sipil,Teknik,6,3.52,20,Perempuan
+Teknik Sipil,Teknik,7,2.81,21,Laki-laki
+Akuntansi,Ekonomi,5,3.37,21,Perempuan
+Hukum,Hukum,2,3.61,18,Perempuan
+Kedokteran,Kedokteran,3,3.25,18,Laki-laki
+Teknik Informatika,Ilmu Komputer,5,3.79,20,Perempuan
+Hukum,Hukum,6,3.0,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,3,3.79,20,Perempuan
+Teknik Informatika,Ilmu Komputer,4,3.34,19,Perempuan
+Teknik Sipil,Teknik,8,3.58,22,Laki-laki
+Teknik Informatika,Ilmu Komputer,7,3.66,21,Perempuan
+Kedokteran,Kedokteran,2,3.53,19,Laki-laki
+Psikologi,Psikologi,3,3.44,18,Laki-laki
+Akuntansi,Ekonomi,7,3.34,20,Laki-laki
+Psikologi,Psikologi,4,3.6,20,Perempuan
+Teknik Sipil,Teknik,1,2.81,19,Laki-laki
+Teknik Informatika,Ilmu Komputer,8,3.3,21,Laki-laki
+Akuntansi,Ekonomi,7,3.63,21,Laki-laki
+Sistem Informasi,Ilmu Komputer,6,3.7,21,Perempuan
+Kedokteran,Kedokteran,5,3.89,19,Laki-laki
+Teknik Sipil,Teknik,8,3.35,22,Perempuan
+Akuntansi,Ekonomi,5,3.4,20,Laki-laki
+Akuntansi,Ekonomi,5,3.41,21,Laki-laki
+Teknik Informatika,Ilmu Komputer,5,3.34,21,Perempuan
+Hukum,Hukum,5,3.36,19,Laki-laki
+Manajemen,Ekonomi,7,3.52,21,Perempuan
+Hukum,Hukum,4,3.49,18,Perempuan
+Hukum,Hukum,1,3.29,19,Perempuan
+Kedokteran,Kedokteran,1,3.57,18,Laki-laki
+Kedokteran,Kedokteran,6,3.83,19,Laki-laki
+Hukum,Hukum,7,3.74,20,Laki-laki
+Sistem Informasi,Ilmu Komputer,6,3.2,21,Perempuan
+Psikologi,Psikologi,7,3.74,22,Perempuan
+Kedokteran,Kedokteran,1,4.0,17,Laki-laki
+Akuntansi,Ekonomi,8,3.63,22,Perempuan
+Psikologi,Psikologi,7,3.64,22,Perempuan
+Akuntansi,Ekonomi,2,3.6,17,Perempuan
+Manajemen,Ekonomi,7,3.05,21,Laki-laki
+Manajemen,Ekonomi,2,3.59,19,Perempuan
+Psikologi,Psikologi,3,3.33,20,Perempuan
+Teknik Sipil,Teknik,8,3.38,22,Perempuan
+Kedokteran,Kedokteran,4,3.19,19,Laki-laki
+Akuntansi,Ekonomi,1,3.59,19,Perempuan
+Teknik Informatika,Ilmu Komputer,5,3.27,19,Laki-laki
+Hukum,Hukum,1,3.66,18,Laki-laki
+Teknik Informatika,Ilmu Komputer,5,3.13,20,Laki-laki
+Hukum,Hukum,6,3.4,20,Laki-laki
+Kedokteran,Kedokteran,6,3.97,21,Laki-laki
+Psikologi,Psikologi,8,3.48,20,Perempuan
+Teknik Sipil,Teknik,4,3.44,20,Laki-laki
+Teknik Sipil,Teknik,8,3.22,22,Laki-laki
+Sistem Informasi,Ilmu Komputer,2,3.55,19,Laki-laki
+Hukum,Hukum,6,3.45,20,Perempuan
+Psikologi,Psikologi,2,3.61,18,Perempuan
+Kedokteran,Kedokteran,6,3.95,19,Perempuan
+Teknik Informatika,Ilmu Komputer,6,3.32,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,5,3.29,20,Perempuan
+Kedokteran,Kedokteran,3,3.88,18,Laki-laki
+Akuntansi,Ekonomi,8,3.9,21,Laki-laki
+Manajemen,Ekonomi,1,3.52,17,Perempuan
+Psikologi,Psikologi,5,4.0,20,Perempuan
+Manajemen,Ekonomi,4,3.09,18,Laki-laki
+Manajemen,Ekonomi,1,2.98,19,Perempuan
+Akuntansi,Ekonomi,5,3.8,19,Laki-laki
+Akuntansi,Ekonomi,1,3.67,18,Laki-laki
+Sistem Informasi,Ilmu Komputer,1,3.65,18,Perempuan
+Psikologi,Psikologi,1,4.0,17,Perempuan
+Psikologi,Psikologi,3,3.46,19,Perempuan
+Psikologi,Psikologi,4,3.55,20,Perempuan
+Teknik Informatika,Ilmu Komputer,4,3.72,20,Laki-laki
+Psikologi,Psikologi,5,3.8,19,Laki-laki
+Hukum,Hukum,1,2.73,19,Laki-laki
+Kedokteran,Kedokteran,3,3.23,18,Perempuan
+Kedokteran,Kedokteran,5,3.47,20,Perempuan
+Teknik Sipil,Teknik,2,2.03,19,Laki-laki
+Akuntansi,Ekonomi,7,3.86,20,Laki-laki
+Hukum,Hukum,5,4.0,20,Laki-laki
+Hukum,Hukum,5,3.6,19,Perempuan
+Kedokteran,Kedokteran,7,3.49,21,Perempuan
+Hukum,Hukum,7,3.22,21,Perempuan
+Akuntansi,Ekonomi,7,3.49,20,Laki-laki
+Hukum,Hukum,5,3.7,19,Laki-laki
+Manajemen,Ekonomi,6,3.72,19,Perempuan
+Kedokteran,Kedokteran,8,3.42,21,Laki-laki
+Psikologi,Psikologi,8,3.25,20,Perempuan
+Teknik Sipil,Teknik,3,2.48,19,Perempuan
+Sistem Informasi,Ilmu Komputer,1,3.35,19,Laki-laki
+Teknik Sipil,Teknik,4,4.0,20,Laki-laki
+Psikologi,Psikologi,5,3.79,20,Laki-laki
+Sistem Informasi,Ilmu Komputer,1,3.74,19,Perempuan
+Teknik Sipil,Teknik,7,3.53,22,Laki-laki
+Kedokteran,Kedokteran,5,3.48,20,Laki-laki
+Teknik Informatika,Ilmu Komputer,3,3.2,18,Laki-laki
+Akuntansi,Ekonomi,5,3.27,21,Laki-laki
+Sistem Informasi,Ilmu Komputer,4,3.94,20,Laki-laki
+Teknik Informatika,Ilmu Komputer,7,2.65,21,Laki-laki
+Manajemen,Ekonomi,4,3.48,20,Laki-laki
+Manajemen,Ekonomi,5,3.63,21,Perempuan
+Sistem Informasi,Ilmu Komputer,1,2.92,19,Laki-laki
+Teknik Sipil,Teknik,5,2.94,20,Laki-laki
+Akuntansi,Ekonomi,8,3.6,22,Perempuan
+Akuntansi,Ekonomi,7,3.61,21,Perempuan
+Manajemen,Ekonomi,1,3.44,17,Perempuan
+Teknik Informatika,Ilmu Komputer,8,3.24,22,Perempuan
+Teknik Informatika,Ilmu Komputer,4,2.78,18,Laki-laki
+Manajemen,Ekonomi,4,3.61,18,Perempuan
+Psikologi,Psikologi,1,3.21,18,Perempuan
+Teknik Informatika,Ilmu Komputer,8,3.61,20,Laki-laki
+Psikologi,Psikologi,3,3.46,19,Perempuan
+Akuntansi,Ekonomi,6,3.24,21,Perempuan
+Hukum,Hukum,7,3.47,22,Perempuan
+Teknik Sipil,Teknik,2,3.73,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,8,3.57,21,Laki-laki
+Teknik Informatika,Ilmu Komputer,5,3.39,20,Laki-laki
+Teknik Informatika,Ilmu Komputer,2,3.43,17,Laki-laki
+Manajemen,Ekonomi,2,3.1,18,Perempuan
+Teknik Sipil,Teknik,2,2.87,18,Laki-laki
+Manajemen,Ekonomi,5,3.62,21,Perempuan
+Manajemen,Ekonomi,1,3.39,18,Laki-laki
+Teknik Informatika,Ilmu Komputer,6,4.0,19,Laki-laki
+Manajemen,Ekonomi,6,3.04,21,Perempuan
+Hukum,Hukum,1,4.0,19,Laki-laki
+Akuntansi,Ekonomi,2,4.0,17,Laki-laki
+Manajemen,Ekonomi,8,3.23,20,Laki-laki
+Hukum,Hukum,4,3.12,19,Perempuan
+Psikologi,Psikologi,4,3.56,20,Laki-laki
+Akuntansi,Ekonomi,3,3.73,18,Perempuan
+Teknik Sipil,Teknik,8,2.84,21,Perempuan
+Sistem Informasi,Ilmu Komputer,2,3.2,18,Perempuan
+Psikologi,Psikologi,7,3.92,20,Perempuan
+Kedokteran,Kedokteran,4,2.65,18,Perempuan
+Akuntansi,Ekonomi,1,3.7,19,Perempuan
+Teknik Informatika,Ilmu Komputer,2,3.53,17,Laki-laki
+Kedokteran,Kedokteran,1,3.67,17,Laki-laki
+Manajemen,Ekonomi,8,3.48,21,Perempuan
+Teknik Informatika,Ilmu Komputer,1,3.15,19,Laki-laki
+Hukum,Hukum,8,3.44,22,Perempuan
+Manajemen,Ekonomi,7,3.63,20,Perempuan
+Manajemen,Ekonomi,2,3.74,18,Perempuan
+Manajemen,Ekonomi,6,3.75,20,Laki-laki
+Psikologi,Psikologi,6,3.14,21,Perempuan
+Hukum,Hukum,5,3.4,19,Laki-laki
+Manajemen,Ekonomi,5,3.13,20,Perempuan
+Teknik Informatika,Ilmu Komputer,8,3.64,21,Laki-laki
+Psikologi,Psikologi,7,3.45,21,Perempuan
+Sistem Informasi,Ilmu Komputer,5,3.71,20,Laki-laki
+Psikologi,Psikologi,3,3.86,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,1,3.15,18,Laki-laki
+Teknik Sipil,Teknik,5,3.54,19,Perempuan
+Manajemen,Ekonomi,3,3.77,18,Laki-laki
+Akuntansi,Ekonomi,4,4.0,20,Laki-laki
+Kedokteran,Kedokteran,2,3.87,17,Perempuan
+Hukum,Hukum,8,3.26,22,Laki-laki
+Teknik Informatika,Ilmu Komputer,2,3.51,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,5,3.77,19,Laki-laki
+Hukum,Hukum,1,2.55,18,Perempuan
+Kedokteran,Kedokteran,1,2.79,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,5,3.13,21,Perempuan
+Psikologi,Psikologi,8,3.54,21,Perempuan
+Kedokteran,Kedokteran,8,2.78,20,Perempuan
+Hukum,Hukum,4,3.43,19,Laki-laki
+Hukum,Hukum,3,2.66,19,Perempuan
+Teknik Informatika,Ilmu Komputer,2,3.32,19,Laki-laki
+Akuntansi,Ekonomi,3,3.47,19,Laki-laki
+Kedokteran,Kedokteran,6,3.28,21,Perempuan
+Teknik Sipil,Teknik,3,2.92,18,Laki-laki
+Sistem Informasi,Ilmu Komputer,6,4.0,19,Perempuan
+Sistem Informasi,Ilmu Komputer,5,3.57,20,Laki-laki
+Psikologi,Psikologi,6,3.75,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,5,4.0,19,Laki-laki
+Teknik Sipil,Teknik,8,2.79,21,Perempuan
+Manajemen,Ekonomi,7,3.51,21,Perempuan
+Psikologi,Psikologi,1,3.88,17,Perempuan
+Manajemen,Ekonomi,7,3.59,20,Perempuan
+Teknik Sipil,Teknik,2,3.57,17,Perempuan
+Psikologi,Psikologi,1,3.89,18,Perempuan
+Manajemen,Ekonomi,4,3.57,20,Perempuan
+Manajemen,Ekonomi,2,2.99,17,Perempuan
+Manajemen,Ekonomi,3,3.99,18,Laki-laki
+Teknik Sipil,Teknik,8,2.77,21,Laki-laki
+Hukum,Hukum,6,3.47,21,Laki-laki
+Sistem Informasi,Ilmu Komputer,1,3.46,17,Laki-laki
+Psikologi,Psikologi,5,3.09,20,Laki-laki
+Hukum,Hukum,6,3.52,21,Perempuan
+Akuntansi,Ekonomi,3,3.87,20,Laki-laki
+Manajemen,Ekonomi,2,3.77,18,Perempuan
+Sistem Informasi,Ilmu Komputer,4,3.63,20,Laki-laki
+Sistem Informasi,Ilmu Komputer,4,3.65,18,Perempuan
+Psikologi,Psikologi,8,3.96,20,Perempuan
+Manajemen,Ekonomi,5,3.18,21,Perempuan
+Psikologi,Psikologi,3,3.27,20,Perempuan
+Teknik Informatika,Ilmu Komputer,1,3.86,19,Laki-laki
+Psikologi,Psikologi,8,3.65,21,Perempuan
+Teknik Informatika,Ilmu Komputer,4,3.73,19,Laki-laki
+Manajemen,Ekonomi,6,3.61,21,Perempuan
+Hukum,Hukum,4,2.87,19,Perempuan
+Kedokteran,Kedokteran,8,3.19,20,Laki-laki
+Kedokteran,Kedokteran,2,3.57,18,Perempuan
+Teknik Sipil,Teknik,6,4.0,20,Laki-laki
+Psikologi,Psikologi,1,3.74,18,Laki-laki
+Akuntansi,Ekonomi,5,3.77,20,Perempuan
+Teknik Informatika,Ilmu Komputer,7,2.95,20,Perempuan
+Akuntansi,Ekonomi,8,3.73,22,Laki-laki
+Teknik Sipil,Teknik,1,3.53,17,Laki-laki
+Hukum,Hukum,5,3.64,19,Perempuan
+Sistem Informasi,Ilmu Komputer,8,3.56,21,Perempuan
+Teknik Sipil,Teknik,7,3.96,20,Laki-laki
+Teknik Sipil,Teknik,3,2.91,18,Laki-laki
+Teknik Sipil,Teknik,6,3.5,21,Perempuan
+Psikologi,Psikologi,3,3.77,20,Perempuan
+Teknik Sipil,Teknik,5,3.69,19,Laki-laki
+Kedokteran,Kedokteran,4,3.32,18,Laki-laki
+Hukum,Hukum,7,3.38,21,Laki-laki
+Kedokteran,Kedokteran,7,3.65,22,Laki-laki
+Manajemen,Ekonomi,8,3.57,20,Perempuan
+Psikologi,Psikologi,5,3.88,21,Perempuan
+Teknik Informatika,Ilmu Komputer,2,2.93,17,Laki-laki
+Teknik Sipil,Teknik,3,2.98,19,Laki-laki
+Akuntansi,Ekonomi,5,3.71,21,Perempuan
+Manajemen,Ekonomi,8,3.75,22,Perempuan
+Manajemen,Ekonomi,7,3.66,21,Laki-laki
+Psikologi,Psikologi,7,3.56,20,Perempuan
+Sistem Informasi,Ilmu Komputer,1,3.23,18,Perempuan
+Akuntansi,Ekonomi,1,3.43,19,Laki-laki
+Hukum,Hukum,6,3.63,20,Laki-laki
+Akuntansi,Ekonomi,2,3.67,17,Perempuan
+Manajemen,Ekonomi,7,3.67,21,Perempuan
+Teknik Informatika,Ilmu Komputer,6,3.49,19,Laki-laki
+Psikologi,Psikologi,1,3.43,18,Perempuan
+Akuntansi,Ekonomi,8,3.6,22,Laki-laki
+Teknik Sipil,Teknik,5,3.28,20,Perempuan
+Teknik Sipil,Teknik,6,2.9,20,Laki-laki
+Teknik Sipil,Teknik,5,3.13,21,Laki-laki
+Teknik Sipil,Teknik,8,3.28,22,Laki-laki
+Manajemen,Ekonomi,4,3.57,18,Perempuan
+Teknik Sipil,Teknik,7,3.53,22,Perempuan
+Hukum,Hukum,4,2.59,20,Perempuan
+Teknik Informatika,Ilmu Komputer,6,2.96,19,Laki-laki
+Manajemen,Ekonomi,2,3.17,18,Perempuan
+Teknik Informatika,Ilmu Komputer,6,3.29,20,Laki-laki
+Kedokteran,Kedokteran,5,3.38,21,Perempuan
+Psikologi,Psikologi,6,3.47,20,Laki-laki
+Sistem Informasi,Ilmu Komputer,4,3.71,18,Laki-laki
+Teknik Sipil,Teknik,6,3.8,20,Laki-laki
+Hukum,Hukum,8,3.24,22,Perempuan
+Teknik Informatika,Ilmu Komputer,1,3.76,19,Laki-laki
+Teknik Sipil,Teknik,2,2.98,17,Laki-laki
+Akuntansi,Ekonomi,8,3.28,20,Perempuan
+Kedokteran,Kedokteran,7,3.55,22,Perempuan
+Teknik Sipil,Teknik,4,2.78,19,Laki-laki
+Teknik Informatika,Ilmu Komputer,5,2.24,19,Perempuan
+Kedokteran,Kedokteran,1,3.06,19,Perempuan
+Teknik Sipil,Teknik,7,3.83,22,Laki-laki
+Psikologi,Psikologi,5,3.53,19,Perempuan
+Hukum,Hukum,3,3.18,18,Perempuan
+Akuntansi,Ekonomi,4,4.0,20,Perempuan
+Psikologi,Psikologi,8,3.66,22,Laki-laki
+Hukum,Hukum,3,2.92,20,Laki-laki
+Teknik Informatika,Ilmu Komputer,8,3.88,21,Laki-laki
+Hukum,Hukum,1,3.96,18,Laki-laki
+Manajemen,Ekonomi,2,3.41,19,Perempuan
+Psikologi,Psikologi,7,3.8,20,Laki-laki
+Sistem Informasi,Ilmu Komputer,7,3.49,20,Laki-laki
+Kedokteran,Kedokteran,6,3.0,19,Perempuan
+Teknik Informatika,Ilmu Komputer,2,3.87,17,Laki-laki
+Sistem Informasi,Ilmu Komputer,1,3.66,19,Laki-laki
+Teknik Sipil,Teknik,2,3.48,18,Perempuan
+Psikologi,Psikologi,7,3.65,20,Perempuan
+Sistem Informasi,Ilmu Komputer,5,2.63,21,Perempuan
+Kedokteran,Kedokteran,5,3.35,20,Laki-laki
+Hukum,Hukum,2,3.7,17,Laki-laki
+Sistem Informasi,Ilmu Komputer,8,3.68,22,Perempuan
+Sistem Informasi,Ilmu Komputer,4,3.32,19,Perempuan
+Hukum,Hukum,1,3.41,17,Laki-laki
+Hukum,Hukum,7,3.53,20,Laki-laki
+Teknik Sipil,Teknik,7,3.5,20,Perempuan
+Sistem Informasi,Ilmu Komputer,1,3.33,19,Perempuan
+Hukum,Hukum,3,2.9,20,Perempuan
+Kedokteran,Kedokteran,1,3.73,17,Perempuan
+Kedokteran,Kedokteran,8,3.16,21,Laki-laki
+Hukum,Hukum,5,3.33,19,Perempuan
+Manajemen,Ekonomi,3,3.86,20,Laki-laki
+Psikologi,Psikologi,3,3.74,19,Laki-laki
+Sistem Informasi,Ilmu Komputer,6,3.51,21,Laki-laki
+Akuntansi,Ekonomi,2,3.33,18,Laki-laki
+Teknik Informatika,Ilmu Komputer,5,3.73,20,Perempuan
+Sistem Informasi,Ilmu Komputer,4,3.87,20,Laki-laki
+Hukum,Hukum,8,3.19,22,Perempuan
+Teknik Informatika,Ilmu Komputer,2,3.62,17,Laki-laki
+Sistem Informasi,Ilmu Komputer,7,3.39,22,Laki-laki
+Hukum,Hukum,5,3.39,19,Laki-laki
+Manajemen,Ekonomi,3,3.7,18,Laki-laki
+Manajemen,Ekonomi,8,3.23,20,Laki-laki
+Kedokteran,Kedokteran,2,4.0,19,Laki-laki
+Teknik Sipil,Teknik,7,3.87,20,Perempuan
+Psikologi,Psikologi,1,3.48,17,Perempuan
+Psikologi,Psikologi,6,3.11,19,Perempuan
+Teknik Informatika,Ilmu Komputer,6,3.49,21,Laki-laki
+Psikologi,Psikologi,8,3.17,20,Laki-laki
+Akuntansi,Ekonomi,7,3.25,22,Perempuan
+Teknik Informatika,Ilmu Komputer,5,4.0,21,Perempuan
+Teknik Informatika,Ilmu Komputer,2,3.68,17,Perempuan
+Teknik Sipil,Teknik,7,3.15,22,Laki-laki
+Kedokteran,Kedokteran,5,3.53,21,Perempuan
+Psikologi,Psikologi,5,3.65,19,Perempuan
+Manajemen,Ekonomi,6,3.57,21,Perempuan
+Akuntansi,Ekonomi,7,3.72,21,Perempuan
+Psikologi,Psikologi,6,3.81,20,Perempuan
+Kedokteran,Kedokteran,7,2.93,21,Laki-laki
+Akuntansi,Ekonomi,1,3.33,17,Perempuan
+Teknik Sipil,Teknik,5,2.77,21,Laki-laki
+Teknik Informatika,Ilmu Komputer,5,3.48,21,Perempuan
+Hukum,Hukum,3,3.13,18,Laki-laki
+Hukum,Hukum,2,3.45,17,Laki-laki
+Sistem Informasi,Ilmu Komputer,8,3.49,21,Laki-laki
+Teknik Sipil,Teknik,5,3.53,21,Perempuan
+Manajemen,Ekonomi,5,3.26,19,Laki-laki
+Psikologi,Psikologi,6,3.42,20,Perempuan
+Sistem Informasi,Ilmu Komputer,2,3.4,18,Laki-laki
+Manajemen,Ekonomi,8,3.61,21,Perempuan
+Sistem Informasi,Ilmu Komputer,1,3.32,18,Laki-laki
+Kedokteran,Kedokteran,3,3.66,20,Perempuan
+Akuntansi,Ekonomi,3,3.24,18,Perempuan
+Teknik Informatika,Ilmu Komputer,8,3.64,20,Laki-laki
+Kedokteran,Kedokteran,3,3.41,19,Laki-laki
+Teknik Informatika,Ilmu Komputer,8,3.13,21,Laki-laki
+Kedokteran,Kedokteran,7,3.39,21,Perempuan
+Hukum,Hukum,4,3.18,18,Laki-laki
+Teknik Sipil,Teknik,5,2.59,20,Laki-laki
+Manajemen,Ekonomi,7,3.59,20,Laki-laki
+Teknik Informatika,Ilmu Komputer,8,3.88,22,Laki-laki
+Teknik Informatika,Ilmu Komputer,6,3.9,20,Laki-laki
+Psikologi,Psikologi,5,3.81,21,Laki-laki
+Psikologi,Psikologi,6,3.75,20,Perempuan
+Psikologi,Psikologi,6,3.55,19,Perempuan
+Teknik Sipil,Teknik,2,3.32,17,Laki-laki
+Akuntansi,Ekonomi,6,3.86,21,Perempuan
+Teknik Sipil,Teknik,4,3.29,20,Laki-laki
+Sistem Informasi,Ilmu Komputer,3,3.53,18,Laki-laki
+Sistem Informasi,Ilmu Komputer,4,3.54,19,Perempuan
+Manajemen,Ekonomi,5,3.45,21,Laki-laki
+Manajemen,Ekonomi,1,3.12,17,Laki-laki
+Manajemen,Ekonomi,5,3.47,21,Perempuan
+Sistem Informasi,Ilmu Komputer,4,2.64,19,Laki-laki
+Teknik Sipil,Teknik,7,3.46,20,Laki-laki
+Hukum,Hukum,7,3.6,22,Laki-laki
