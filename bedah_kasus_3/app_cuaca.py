@@ -1,12 +1,16 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import plotly.graph_objects as go
+import os
 
 st.set_page_config(page_title="Dashboard Pengamatan Cuaca", layout="wide")
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data_cuaca_sintesis.csv", parse_dates=["Tanggal"])
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(current_dir, "data_cuaca_sintesis.csv")
+    df = pd.read_csv(file_path, parse_dates=["Tanggal"])
     return df
 
 df = load_data()
@@ -81,7 +85,6 @@ st.subheader("🌡️ Analisis Numerik Interval & Rasio")
 col1, col2 = st.columns(2)
 
 with col1:
-    # Suhu = interval → histogram + box
     fig = px.histogram(df_filtered, x="Suhu_C", nbins=25,
                        title="Distribusi Suhu (°C) — Interval",
                        marginal="box",
@@ -89,7 +92,6 @@ with col1:
     st.plotly_chart(fig, use_container_width=True)
 
 with col2:
-    # Kelembaban = rasio → histogram + box
     fig = px.histogram(df_filtered, x="Kelembaban_Persen", nbins=25,
                        title="Distribusi Kelembaban (%) — Rasio",
                        marginal="box",
@@ -149,7 +151,6 @@ monthly = df_filtered.groupby("Bulan").agg(
     Kelembaban_Rata=("Kelembaban_Persen", "mean")
 ).reset_index()
 
-import plotly.graph_objects as go
 fig = go.Figure()
 fig.add_trace(go.Scatter(x=monthly["Bulan"], y=monthly["Suhu_Rata"],
                          mode="lines+markers", name="Suhu (°C)",
