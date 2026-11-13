@@ -1,12 +1,15 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import os
 
 st.set_page_config(page_title="Dashboard Profil Mahasiswa", layout="wide")
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data_mahasiswa_sintesis.csv")
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(current_dir, "data_mahasiswa_sintesis.csv")
+    df = pd.read_csv(file_path)
     return df
 
 df = load_data()
